@@ -13,6 +13,7 @@
 - <b>Azure</b>
   - [Deploying Web App on Azure](https://github.com/JusticeOkp/Deploying-Web-App-on-Azure)
   - [Azure devops pipelines with CloudFormation](https://github.com/JusticeOkp/Azure-devops-pipelines-with-CloudFormation)
+  - [Using-Microsoft-Azure-to-Host-Windows-Active-Directory-Lab](https://github.com/JusticeOkp/Using-Microsoft-Azure-to-Host-Windows-Active-Directory-Lab/tree/main)
 - <b>Script</b>
   - [Deploying a ec2 instance with terraform and use a bash script to pull the ec2 metrics](https://github.com/JusticeOkp/Script-Project)
 - <b>SQL</b>
