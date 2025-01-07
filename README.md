@@ -10,7 +10,8 @@
 - <b>Terraform</b>
   - [Using Terraform to deploy a vpc](https://github.com/JusticeOkp/AWS-Terraform)
   - [CI-CD Pipelines using Terraform](https://github.com/JusticeOkp/CI-CD-Pipelines-using-Terraform-)
-- <b>Azure</b>
+- <b>Azure</b> 
+  - [Creating a Virtual Machine on Azure](https://github.com/JusticeOkp/Creating-a-Virtual-Machine-on-Azure)
   - [Deploying Web App on Azure](https://github.com/JusticeOkp/Deploying-Web-App-on-Azure)
   - [Azure devops pipelines with CloudFormation](https://github.com/JusticeOkp/Azure-devops-pipelines-with-CloudFormation)
   - [Using-Microsoft-Azure-to-Host-Windows-Active-Directory-Lab](https://github.com/JusticeOkp/Using-Microsoft-Azure-to-Host-Windows-Active-Directory-Lab/tree/main)
