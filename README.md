@@ -7,14 +7,15 @@
   - [AWS Codepipeline to move a project code from GitHub to S3 Bucket](https://github.com/JusticeOkp/Linking-GitHub-to-a-S3-bucket)
   - [AWS CodePipeline to move a CloudFormation template on GitHub to S3 Bucket](https://github.com/JusticeOkp/Using-aws-CodePipeline)
   - [S3 Bucket Static website](https://github.com/JusticeOkp/S3-Bucket-Static-website)
-- <b>Terraform</b>
-  - [Using Terraform to deploy a vpc](https://github.com/JusticeOkp/AWS-Terraform)
-  - [CI-CD Pipelines using Terraform](https://github.com/JusticeOkp/CI-CD-Pipelines-using-Terraform-)
 - <b>Azure</b> 
   - [Creating a Virtual Machine on Azure](https://github.com/JusticeOkp/Creating-a-Virtual-Machine-on-Azure)
   - [Deploying Web App on Azure](https://github.com/JusticeOkp/Deploying-Web-App-on-Azure)
   - [Azure devops pipelines with CloudFormation](https://github.com/JusticeOkp/Azure-devops-pipelines-with-CloudFormation)
   - [Using-Microsoft-Azure-to-Host-Windows-Active-Directory-Lab](https://github.com/JusticeOkp/Using-Microsoft-Azure-to-Host-Windows-Active-Directory-Lab/tree/main)
+- <b>Terraform</b>
+  - [Using Terraform to deploy a vpc](https://github.com/JusticeOkp/AWS-Terraform)
+  - [CI-CD Pipelines using Terraform](https://github.com/JusticeOkp/CI-CD-Pipelines-using-Terraform-)
+
 - <b>Script</b>
   - [Deploying a ec2 instance with terraform and use a bash script to pull the ec2 metrics](https://github.com/JusticeOkp/Script-Project)
 - <b>SQL</b>
