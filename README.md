@@ -1,4 +1,4 @@
-<h1>Hi, I'm Justice! <br/><a href="https://www.linkedin.com/in/justiceokp/">Cloud Engineer</a></h1>
+<h1>Hi, I'm Justice! <br/><a href="https://www.linkedin.com/in/justiceokp/">Cloud Engineer, DevOps Engineer, & Software Engineer</a></h1>
 
 <h2>👨‍💻 Cloud Engineering Projects:</h2>
 
