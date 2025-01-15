@@ -4,6 +4,7 @@
 
 - <b>AWS</b>
   - [Using AWS CloudFormation to create a VPC with a S3 bucket](https://github.com/JusticeOkp/CloudFormation_VPC_S3)
+  - [Using Terraform to deploy an aws ec2 with splunk](https://github.com/JusticeOkp/terraform-aws-splunk)
   - [AWS Codepipeline to move a project code from GitHub to S3 Bucket](https://github.com/JusticeOkp/Linking-GitHub-to-a-S3-bucket)
   - [AWS CodePipeline to move a CloudFormation template on GitHub to S3 Bucket](https://github.com/JusticeOkp/Using-aws-CodePipeline)
   - [S3 Bucket Static website](https://github.com/JusticeOkp/S3-Bucket-Static-website)
